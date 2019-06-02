@@ -19,6 +19,9 @@ If you would like to include this product as part of your  website, feel free to
 We do ask that you inform us that you have included  this  file  on your site so our ego's may get  a bit larger :-)
 
 Enjoy - John Eric & John Robert (J.R.), Son & Father
+This is the end of text from the original repository.
+
+The following text is added for this new version:
 
 I have updated the GCC-0001.0 (v1.0) product described above to GCC-0001.1 (v1.1) and placed a repository for the 1.1 version here: https://github.com/TheLittleEngineers/2732-tofrom-2532
 
