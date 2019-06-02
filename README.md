@@ -20,4 +20,16 @@ We do ask that you inform us that you have included  this  file  on your site so
 
 Enjoy - John Eric & John Robert (J.R.), Son & Father
 
+I have updated the GCC-0001.0 (v1.0) product described above to GCC-0001.1 (v1.1) and placed a repository for the 1.1 version here: https://github.com/TheLittleEngineers/2732-tofrom-2532
+
+The original version was created by my nephew and his father (my brother) with minor input from me. The 1.1 version made minor changes, specifically a cleaner silkscreen, mitered tracks and a CC BY-SA 4.0 License. I did not fork Ricardo Quesadas repository for that minor update, but rather simply made a new repository.
+
+I have now updated GCC-0001.1 (v1.1) to GCC-0001.2 (v1.2), once again making only minor changes. These changes are to the EAGLE library to improve appearance. I decided, at this time, to fork Ricardo Quesadas repository for this version so that more people might find it and have access to the CC BY-SA 4.0 Licensed version.
+
+Enjoy - Robert "The R.A.T." Allen Turner, 02 June 2019.
+
+This repository resides at: https://github.com/TheLittleEngineers/2732-to-2532
+
+There is an OSHPark Project Page at this url: https://oshpark.com/shared_projects/AEIenkvH
+
 
