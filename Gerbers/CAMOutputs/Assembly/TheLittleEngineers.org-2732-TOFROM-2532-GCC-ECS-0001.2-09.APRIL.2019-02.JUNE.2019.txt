@@ -1,0 +1,6 @@
+Partlist exported from Z:/GitHub/01 June 2019/Current/2732-TOFROM-2532-GCC-ECS-0001.2-09.APRIL.2019-02.JUNE.2019/Gerbers/TheLittleEngineers.org-2732-TOFROM-2532-GCC-ECS-0001.2-09.APRIL.2019-02.JUNE.2019.sch at 6/2/2019 8:52 AM
+
+Qty Value Device Package Parts    Description                    
+2         JP     JP1     JP1, JP2 TWO-PIN JUMPER2-Pin SIP Header 
+1   2532  2532   DIL24   IC1      TMS2532 E.P.R.O.M.             
+1   2732  2732   DIL24   IC2      TMS2732A EPROM                 
